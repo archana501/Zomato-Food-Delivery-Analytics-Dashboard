@@ -19,6 +19,7 @@ The dashboard is divided into four interactive pages, each focusing on a differe
 ## Dashboard Pages
 
 ### Executive Overview
+![Overview](Images/Overview.png)
 
 **KPIs**
 - Total Orders
@@ -37,6 +38,7 @@ The dashboard is divided into four interactive pages, each focusing on a differe
 ---
 
 ### Revenue Analysis
+![Revenue analysis](Images/Revenue%20analysis.png)
 
 **KPIs**
 - Total Discount
@@ -54,6 +56,7 @@ The dashboard is divided into four interactive pages, each focusing on a differe
 ---
 
 ### Operations Analysis
+![Operations Analysis](Images/Operation%20analysis.png)
 
 **KPIs**
 - Total Orders
@@ -70,6 +73,7 @@ The dashboard is divided into four interactive pages, each focusing on a differe
 ---
 
 ### Customer & Restaurant Insights
+![Insights](Images/Insights.png)
 
 **KPIs**
 - Total Customers
